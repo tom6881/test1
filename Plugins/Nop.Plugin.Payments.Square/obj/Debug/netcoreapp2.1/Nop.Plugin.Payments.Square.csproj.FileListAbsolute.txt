@@ -1,0 +1,16 @@
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.pdb

@@ -1,0 +1,17 @@
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.deps.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csprojAssemblyReference.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CopyComplete
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.pdb

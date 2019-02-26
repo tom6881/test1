@@ -1,0 +1,14 @@
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\plugin.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\Configure.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\_ViewImports.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.deps.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csprojAssemblyReference.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfoInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfo.cs
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csproj.CopyComplete
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.pdb

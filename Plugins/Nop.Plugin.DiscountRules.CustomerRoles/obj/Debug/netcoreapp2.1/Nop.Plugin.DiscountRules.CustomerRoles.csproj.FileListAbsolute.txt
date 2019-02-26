@@ -1,0 +1,13 @@
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\迅雷下载\nop4.1\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.pdb
